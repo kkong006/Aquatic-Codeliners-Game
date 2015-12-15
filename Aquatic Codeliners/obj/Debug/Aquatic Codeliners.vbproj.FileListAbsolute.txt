@@ -1,0 +1,36 @@
+c:\users\karen-carolyn\documents\visual studio 2012\Projects\Aquatic Codeliners\Aquatic Codeliners\bin\Debug\Aquatic Codeliners.exe.config
+c:\users\karen-carolyn\documents\visual studio 2012\Projects\Aquatic Codeliners\Aquatic Codeliners\bin\Debug\Aquatic Codeliners.exe
+c:\users\karen-carolyn\documents\visual studio 2012\Projects\Aquatic Codeliners\Aquatic Codeliners\bin\Debug\Aquatic Codeliners.pdb
+c:\users\karen-carolyn\documents\visual studio 2012\Projects\Aquatic Codeliners\Aquatic Codeliners\bin\Debug\Aquatic Codeliners.xml
+c:\users\karen-carolyn\documents\visual studio 2012\Projects\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic_Codeliners.Form1.resources
+c:\users\karen-carolyn\documents\visual studio 2012\Projects\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic_Codeliners.Form2.resources
+c:\users\karen-carolyn\documents\visual studio 2012\Projects\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic_Codeliners.Resources.resources
+c:\users\karen-carolyn\documents\visual studio 2012\Projects\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic Codeliners.vbproj.GenerateResource.Cache
+c:\users\karen-carolyn\documents\visual studio 2012\Projects\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic Codeliners.exe
+c:\users\karen-carolyn\documents\visual studio 2012\Projects\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic Codeliners.xml
+c:\users\karen-carolyn\documents\visual studio 2012\Projects\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic Codeliners.pdb
+c:\users\karen-carolyn\documents\visual studio 2012\Projects\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic_Codeliners.Form3.resources
+c:\users\karen-carolyn\documents\visual studio 2012\Projects\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic_Codeliners.Form4.resources
+C:\Users\karen-carolyn\Documents\Visual Studio 2012\Projects\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic_Codeliners.Form5.resources
+E:\Hackathon\Aquatic Codeliners\Aquatic Codeliners\bin\Debug\Aquatic Codeliners.exe.config
+E:\Hackathon\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic Codeliners.exe
+E:\Hackathon\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic Codeliners.xml
+E:\Hackathon\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic Codeliners.pdb
+H:\Hackathon\Aquatic Codeliners\Aquatic Codeliners\bin\Debug\Aquatic Codeliners.exe.config
+H:\Hackathon\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic Codeliners.exe
+H:\Hackathon\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic Codeliners.xml
+H:\Hackathon\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic Codeliners.pdb
+L:\Computer Club\Hackathon\Aquatic Codeliners\Aquatic Codeliners\bin\Debug\Aquatic Codeliners.exe.config
+L:\Computer Club\Hackathon\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic Codeliners.exe
+L:\Computer Club\Hackathon\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic Codeliners.xml
+L:\Computer Club\Hackathon\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic Codeliners.pdb
+L:\Computer Club\Hackathon\Aquatic Codeliners\Aquatic Codeliners\bin\Debug\Aquatic Codeliners.exe
+L:\Computer Club\Hackathon\Aquatic Codeliners\Aquatic Codeliners\bin\Debug\Aquatic Codeliners.pdb
+L:\Computer Club\Hackathon\Aquatic Codeliners\Aquatic Codeliners\bin\Debug\Aquatic Codeliners.xml
+L:\Computer Club\Hackathon\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic_Codeliners.Form1.resources
+L:\Computer Club\Hackathon\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic_Codeliners.Form2.resources
+L:\Computer Club\Hackathon\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic_Codeliners.Form3.resources
+L:\Computer Club\Hackathon\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic_Codeliners.Form4.resources
+L:\Computer Club\Hackathon\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic_Codeliners.Form5.resources
+L:\Computer Club\Hackathon\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic_Codeliners.Resources.resources
+L:\Computer Club\Hackathon\Aquatic Codeliners\Aquatic Codeliners\obj\Debug\Aquatic Codeliners.vbproj.GenerateResource.Cache
